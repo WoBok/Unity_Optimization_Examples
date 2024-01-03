@@ -9,7 +9,7 @@ PlayerSettings:
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
   defaultScreenOrientation: 3
-  targetDevice: 2
+  targetDevice: 0
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: WoBok
@@ -160,13 +160,13 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.WoBok.OptimizationExample
     Standalone: com.WoBok.Optimization-Example
-    iPhone: com.DefaultCompany.ttt
+    iPhone: com.WoBok.Optimization-Example
   buildNumber:
     Standalone: 0
     VisionOS: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
+  overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 22
   AndroidTargetSdkVersion: 0
